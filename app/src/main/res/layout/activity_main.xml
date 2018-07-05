@@ -23,20 +23,12 @@
         android:layout_marginTop="27dp" />
 
     <Button
-        android:text="Scan that boi"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/button3"
-        android:layout_marginBottom="124dp"
-        android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
-
-    <Button
-        android:text="Is it a bad company"
+        android:text="Is it a bad company?"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/button2"
-        android:layout_above="@+id/button3"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="165dp" />
 
 </RelativeLayout>
